@@ -1,4 +1,4 @@
-Add line
+﻿Add line
 Add another line
 
 # Demonstration
@@ -33,3 +33,5 @@ irgendwas
 
 Und ein neuer Versuch
 2x2 macht 4
+
+// New line for fork
